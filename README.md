@@ -2,6 +2,8 @@
 
 This project implements a web application that allows users to upload an image containing text in both Hindi and English, extracts the text using the **easyocr** library, and allows for a keyword search within the extracted text.
 
+## Deployed Link --> https://hindi-english-ocr-and-keyword-search-web.streamlit.app/
+
 ## Features
 
 - **Image Upload**: Upload an image in JPG, PNG formats.
